@@ -104,7 +104,5 @@ headline of the news
 
 ## Author
 
-**Anjani Kumar Pokhrel**
+**Binamra Adhikari**
 Kathmandu, Nepal
-[LinkedIn](https://www.linkedin.com/in/anjan-pokhrel-441425283/)\
-[GitHub](https://github.com/Anjan580)
