@@ -119,13 +119,6 @@ elif st.session_state.page == "About":
     ###  Built With
     - Python & Streamlit    
     - Machine Learning (TF-IDF, Logistic Regression Algorithm)
-
-    ###  Developed By
-    Anjani Kumar Pokhrel \n
-    2025  
-
-    ---
-    *Our goal is to help users identify misinformation and encourage critical thinking in the digital era.*
     """)
 
 #  DETECTOR PAGE
